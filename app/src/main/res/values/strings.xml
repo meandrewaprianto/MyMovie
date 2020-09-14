@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image">Image</string>
+    <string name="title">Title</string>
+    <string name="something_wrong">Ops, Something Wrong</string>
+    <string name="description">Description</string>
+    <string name="releaseDate">"Release Date </string>
+    <string name="title_favorite">Favorite</string>
+    <string name="no_data">No Data</string>
+</resources>
